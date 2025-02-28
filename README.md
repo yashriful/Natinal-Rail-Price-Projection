@@ -7,6 +7,9 @@ Welcome to the UK National Rail Price Prediction Dashboard! This project visuali
 📂 Project Overview
 Dataset: Historical train ticket prices across key UK routes.
 Prediction: Forecasting prices for the next 5 years (2024-2029) using linear trends.
+
+![image](https://github.com/user-attachments/assets/a3a31819-b118-4470-9c2e-756e4b1fa33a)
+
 Visualization Tool: Tableau Public
 Data Source: National Rail UK 🚉
 🔎 Key Features
